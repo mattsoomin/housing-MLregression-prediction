@@ -4,7 +4,7 @@
 _Courtesy of the Ames Chamber of Commerce_
 
 #### Using the Streamlit Web App
-1. Clone locally
+1. Clone locally and install Streamlit Web: `pip install streamlit`
 2. Navigate to project folder in CLI
 3. Create a virtual environment with pipenv or conda env
 4. `pip install requirements.txt`
